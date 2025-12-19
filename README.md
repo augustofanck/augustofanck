@@ -48,7 +48,7 @@ Aqui no GitHub você vai ver projetos focados em **front-end moderno**, **APIs**
 
 ## 🚀 Projetos em destaque
 
-- **Portfolio SPA (React + Vite + TypeScript)**  
+- **Portfolio (React + Vite + TypeScript)**  
   Repo: https://github.com/augustofanck/portfolio-spa  
   Live: https://portfolio-augustofancks-projects.vercel.app
 
